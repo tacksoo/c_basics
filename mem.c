@@ -1,0 +1,6 @@
+
+malloc()
+
+calloc()
+
+memset()
